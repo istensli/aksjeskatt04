@@ -303,6 +303,8 @@ function visUrealiserte(){
 
 }
 
+//legger til paa github
+
 
 
 
